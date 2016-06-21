@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1466461402 source:/home/jonathan/Documents/egg/main.cpp
+	<SFML/Graphics.hpp>
+	"game.hpp"
+
+1466471419 source:/home/jonathan/Documents/egg/src/monster.cpp
+	"monster.hpp"
+	<cmath>
+
+1466471163 /home/jonathan/Documents/egg/include/monster.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1466461402 /home/jonathan/Documents/egg/include/game.hpp
+	<SFML/Graphics.hpp>
+
+1466471270 source:/home/jonathan/Documents/egg/src/game.cpp
+	"game.hpp"
+	"monster.hpp"
+	<cmath>
+
